@@ -2,9 +2,6 @@ Hello there! 👋
 
 I'm Sanjay Das, a passionate Software Engineer diving into the realms of Automation, DevOps, and Web Development, all while riding the cloud technology wave. Join me on this exciting journey from my base in India. Welcome to my GitHub profile!
 
-#### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/sanjaydas9027/)
-
 
 ### Technologies I Love:
 
